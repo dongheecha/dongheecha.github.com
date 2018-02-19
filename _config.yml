@@ -5,13 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: http://dongheecha.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: donghee cha # add your name
 author-pic: adam-face.jpg
-about-author: My name is Donghee Cha. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+about-author: Hello, My name is Donghee Cha. im a programmer.
 
 # Contact links
 email: ddonghee93@naver.com
@@ -28,7 +28,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: 난장붕어 # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
